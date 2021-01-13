@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid red;
+}
+body{
+    background-color: #ccc;
+}
+#editorjs{
+    background-color: white;
+    box-shadow: 0px 0px 2px 4px #ccc;
+}
+.btn{
+    text-align: center;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    background:rgb(119, 206, 119);
+    padding:.4rem;
+    width:20%;
+    margin:auto;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+.btn:hover{
+    background:rgb(17, 170, 17);
+}
